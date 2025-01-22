@@ -14,8 +14,8 @@ The app should fetch updated weather data and send a notification after 5 hours 
   - **CoreLocation:** Used to access the device’s location to provide accurate weather information.
   - **BackgroundTasks:** Used to run tasks in the background, such as fetching location, updating data, and scheduling local notifications.
   - **UserNotifications:** Used to schedule and manage notifications, like weather reminders for the user.
-**Other Services:**
-- **[OpenWeather:](https://openweathermap.org)** A service that provides a weather API.
+- **Other Services:**
+  - **[OpenWeather:](https://openweathermap.org)** A service that provides a weather API.
 
 
 
