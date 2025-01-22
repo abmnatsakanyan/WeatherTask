@@ -9,12 +9,12 @@ The app should fetch updated weather data and send a notification after 5 hours 
 - **Language:** Swift
 - **Framework:** UIKit
 - **Architecture:** MVVM+Coordinator
-- **Layout Techniques:**
+- **Frameworks:**
   - **MapKit:** Used to display maps and annotations, such as user locations or points of interest.
   - **CoreLocation:** Used to access the device’s location to provide accurate weather information.
   - **BackgroundTasks:** Used to run tasks in the background, such as fetching location, updating data, and scheduling local notifications.
   - **UserNotifications:** Used to schedule and manage notifications, like weather reminders for the user.
-**Other Libraries:**
+**Other Services:**
 - **[OpenWeather:](https://openweathermap.org)** A service that provides a weather API.
 
 
