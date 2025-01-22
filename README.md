@@ -24,5 +24,6 @@ Mail - [abmnatsakanyan@gmail.com](mailto:abmnatsakanyan@gmail.com)
 GitHub: [abmnatsakanyan](https://github.com/abmnatsakanyan)  
 LinkedIn: [abmnatsakanyan](https://www.linkedin.com/in/abmnatsakanyan/)  
 Telegram: [@abmnatsakanyan](https://t.me/abmnatsakanyan)
+
 Thank you for checking out this project! If you have any questions or feedback, feel free to reach out.
 
